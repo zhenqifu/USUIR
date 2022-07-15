@@ -1,10 +1,40 @@
-# USUIR
+# Unsupervised Underwater Image Restoration: From a Homology Perspective (AAAI 2022)([Paper](https://www.aaai.org/AAAI22Papers/AAAI-2078.FuZ.pdf))
+The Pytorch Implementation of ''Unsupervised Underwater Image Restoration: From a Homology Perspective''. 
 
-Unsupervised Underwater Image Restoration: From a Homology Perspective. Accepted by AAAI 2022 [paper](https://www.aaai.org/AAAI22Papers/AAAI-2078.FuZ.pdf).
+<div align=center><img src="img/1.png" height = "50%" width = "50%"/></div>
 
-To test our method, you can run eval.py using our pretrained model in ./final_weight.
+## Introduction
+In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.7.1 and one NVIDIA RTX 2080Ti GPU. 
 
-To train the model, you need to prepare the [dataset (Google Drive)](https://drive.google.com/file/d/1DBCXCa5GWJPB7S6xO7f0N562FqXhsV6c/view?usp=sharing) first. Then run main.py.
+## Running
 
-If you find USUIR is useful in your research, please consider citing our paper.
+### Testing
+
+The pretrained models are in ./final_weight.
+
+Check the model and image pathes in eval.py, and then run:
+
+```
+python eval.py
+```
+
+### Training
+
+To train the model, you need to prepare our [dataset](https://drive.google.com/file/d/1DBCXCa5GWJPB7S6xO7f0N562FqXhsV6c/view?usp=sharing).
+
+Check the dataset path in main.py, and then run:
+```
+python main.py
+```
+
+## Citation
+
+If you find USUIR is useful in your research, please cite our paper:
+
+
+
+
+
+
+
 
