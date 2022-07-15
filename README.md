@@ -20,7 +20,7 @@ python eval.py
 
 ### Training
 
-To train the model, you need to prepare our [dataset](https://drive.google.com/file/d/1DBCXCa5GWJPB7S6xO7f0N562FqXhsV6c/view?usp=sharing).
+To train the model, you need to first prepare our [dataset](https://drive.google.com/file/d/1DBCXCa5GWJPB7S6xO7f0N562FqXhsV6c/view?usp=sharing).
 
 Check the dataset path in main.py, and then run:
 ```
