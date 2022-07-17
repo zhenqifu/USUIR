@@ -1,7 +1,7 @@
 # Unsupervised Underwater Image Restoration: From a Homology Perspective (AAAI 2022)([Paper](https://www.aaai.org/AAAI22Papers/AAAI-2078.FuZ.pdf))
 The Pytorch Implementation of ''Unsupervised Underwater Image Restoration: From a Homology Perspective''. 
 
-<div align=center><img src="img/1.png" height = "50%" width = "50%"/></div>
+<div align=center><img src="img/1.png" height = "80%" width = "80%"/></div>
 
 ## Introduction
 In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.7.1 and one NVIDIA RTX 2080Ti GPU. 
