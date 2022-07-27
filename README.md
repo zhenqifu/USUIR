@@ -1,4 +1,4 @@
-# Unsupervised Underwater Image Restoration: From a Homology Perspective (AAAI 2022)([Paper](https://www.aaai.org/AAAI22Papers/AAAI-2078.FuZ.pdf))
+# Unsupervised Underwater Image Restoration: From a Homology Perspective (AAAI 2022)([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19944))
 The Pytorch Implementation of ''Unsupervised Underwater Image Restoration: From a Homology Perspective''. 
 
 <div align=center><img src="img/1.png" height = "80%" width = "80%"/></div>
