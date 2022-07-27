@@ -31,7 +31,17 @@ python main.py
 
 If you find USUIR is useful in your research, please cite our paper:
 
-
+```
+@article{Fu_Lin_Yang_Chai_Sun_Huang_Ding_2022, 
+title={Unsupervised Underwater Image Restoration: From a Homology Perspective}, 
+author={Fu, Zhenqi and Lin, Huangxing and Yang, Yan and Chai, Shu and Sun, Liyan and Huang, Yue and Ding, Xinghao}, 
+year={2022}, 
+volume={36}, 
+month={Jun.}, 
+pages={643-651},
+url={https://ojs.aaai.org/index.php/AAAI/article/view/19944}, 
+DOI={10.1609/aaai.v36i1.19944}, }
+```
 
 
 
