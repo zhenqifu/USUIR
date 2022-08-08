@@ -39,6 +39,7 @@ year={2022},
 volume={36}, 
 month={Jun.}, 
 pages={643-651},
+journal={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
 url={https://ojs.aaai.org/index.php/AAAI/article/view/19944}, 
 DOI={10.1609/aaai.v36i1.19944}
 }
